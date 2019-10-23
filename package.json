@@ -1,0 +1,15 @@
+{
+  "name": "ness",
+  "version": "1.0.0",
+  "description": "Apenas um bot para o Discord.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yuuzinho",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
